@@ -1,3 +1,14 @@
-_config.yml
-_themes/
-*.pdf
+*.tar
+tição 
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
